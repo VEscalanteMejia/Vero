@@ -1,2 +1,1 @@
-# Vero
-Es una prueba para saber comandos 
+Es un ensayo para saber si sabemos los comandos 
